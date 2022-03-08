@@ -1,6 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.container{
+    margin-bottom: 50px;
+}
 .menu{
     margin-top: 10px;
     margin-bottom: 10px;
@@ -26,4 +29,28 @@ body{
 }
 .carousel-indicators{
     margin-bottom: -2rem;
+}
+.product-top{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.card img{
+    padding: 20px;
+}
+.card{
+    text-align: center;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.container h4, h2, h1{
+    font-weight: bold;
+}
+.container p{
+    color:gray;
+    font-size: medium;
+}
+.product-top h5{
+    color: orange;
 }
