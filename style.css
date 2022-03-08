@@ -55,3 +55,22 @@ body{
 .product-top h5{
     color: orange;
 }
+.categories{
+    padding-top: 50px;
+}
+hr.rounded {
+    border-top: 8px solid rgb(231, 96, 6);
+    border-radius: 5px;
+    width: 100px;
+    margin: auto;
+  }
+  .cat-img img{
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-bottom: 40px;
+    background-color: white;
+  }
+  .cat-cat{
+      margin-top: 50px;
+  }
