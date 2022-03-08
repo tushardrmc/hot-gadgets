@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.menu{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.buy-btn{
+    background-color: black;
+    color: white;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 5px;
+}
+.bg-image{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bg-slider{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left bottom; 
+    padding: 40px 0px;
+}
+.carousel-indicators{
+    margin-bottom: -2rem;
+}
